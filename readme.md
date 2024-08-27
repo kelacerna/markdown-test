@@ -65,6 +65,8 @@ print("hello word")
 
 <!--REGLAS DE GITHUB para MarkDown-->
 * [x] Task1
-* [] Task2
-* [] Task3
+* [ ] Task2
+* [ ] Task3
 * [x] Task4
+
+@kelacerna :smiley: :+1:
